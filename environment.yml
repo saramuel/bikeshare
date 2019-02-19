@@ -1,0 +1,6 @@
+name: bikeshare
+dependencies:
+  - python=3.6
+  - scikit-learn
+  - pandas
+  - matplotlib
